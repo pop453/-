@@ -1,0 +1,31 @@
+{
+    "profile":  {
+                    "avatar":  "img/avatar.webp",
+                    "name":  "Aop-corn",
+                    "desc":  "“等一场冬雪，抚平所有意难平”\n邮箱：3756401862@qq.com\nIP:中国 内蒙古 通辽\nwelcome to tongliao"
+                },
+    "socials":  [
+                    {
+                        "type":  "link",
+                        "text":  "\u003cimg src=\"img/douyin.png\" alt=\"抖音\"\u003e",
+                        "href":  "https://v.douyin.com/8TlxVPbsvgA/"
+                    },
+                    {
+                        "type":  "link",
+                        "text":  "\u003cimg src=\"img/kuaishou.png\" alt=\"快手\"\u003e",
+                        "href":  "https://v.kuaishou.com/J7d1lmo3"
+                    }
+                ],
+    "sites":  [
+                  {
+                      "text":  "暂无",
+                      "href":  "javascript:void(0)",
+                      "cover":  ""
+                  }
+              ],
+    "stats":  {
+                  "startDate":  "2022-02-13",
+                  "experienceStart":  "2022-02-13",
+                  "projectCount":  0
+              }
+}
